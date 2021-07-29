@@ -1,0 +1,2 @@
+C:\Users\jokan\source\repos\dotnet-interview-template\DotNetInterview.Tests\obj\Debug\DotNetInterview.Tests.csproj.AssemblyReference.cache
+C:\Users\jokan\source\repos\dotnet-interview-template\DotNetInterview.Tests\obj\Debug\DotNetInterview.Tests.csproj.CoreCompileInputs.cache
